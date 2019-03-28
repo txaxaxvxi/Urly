@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Urly
 //
-//  Created by Taavi Roosimägi on 26/03/2019.
+//  Created by Taavi Roosimägi on 26/03/2019. | Last Update on 28 Macrh (03) 2019.
 //  Copyright © 2019 Taavi Roosimägi. All rights reserved.
 //  Talking-Muffin.com
 //  Icon made by https://www.flaticon.com/authors/turkkub
