@@ -1,6 +1,6 @@
 # Urly
 
-Version 0.1 | Simple NSStatusBar Template
+Version 0.2 | Simple NSStatusBar Template
 
 ![Urly](https://i.imgur.com/FPd57qz.gif?raw=true "Urly")
 
@@ -8,4 +8,4 @@ A simple and a small NSStatusBarApp, which can be used as a template for your ow
 
 Urly is a useful mini status bar application that simplifies your daily life by making your copied links clickable and also converts your copied URL into BBCode without any hassle or typing out long BBCode. Really, a time saver!
 
-The application will work on OS X 10.10 - 10.14 and is written in Swift 4. The earlier versions of Mac OS X are ufortunately unsupported.
+The application will work on OS X 10.10 - 10.14 and is written in ~~Swift 4~~ Swift 5. The earlier versions of Mac OS X are ufortunately unsupported.
